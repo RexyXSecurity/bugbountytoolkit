@@ -41,7 +41,7 @@ const Header = () => {
               </a>
             ))}
             <a
-              href="https://github.com/RexyXSexurity"
+              href="https://github.com/RexyXSecurity"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-3 p-2 rounded-lg text-zinc-500 hover:text-white hover:bg-zinc-800/50 transition-all duration-200"
@@ -75,7 +75,7 @@ const Header = () => {
               </a>
             ))}
             <a
-              href="https://github.com/RexyXSexurity"
+              href="https://github.com/RexyXSecurity"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-3 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-800/50 transition-all duration-200 text-sm"
