@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bugbountytoolkit.netlify.app/sitemap.xml
+Sitemap: https://bugbountytoolkit.vercel.app/sitemap.xml
