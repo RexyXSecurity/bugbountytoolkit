@@ -122,7 +122,7 @@ const ContactSection = () => {
             <p className="text-zinc-600 text-xs mb-4">Or connect with me directly</p>
             <div className="flex justify-center gap-3">
               <a
-                href="mailto:lucyanxsecurity@gmail.com"
+                href="mailto:whoisrexy1337@gmail.com"
                 className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-zinc-400 hover:text-white transition-all duration-200"
                 style={{ background: 'var(--bg-surface)', border: '1px solid var(--border)' }}
               >
@@ -130,7 +130,7 @@ const ContactSection = () => {
                 Email
               </a>
               <a
-                href="https://twitter.com/LuCyanXsecurity"
+                href="https://twitter.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-zinc-400 hover:text-white transition-all duration-200"

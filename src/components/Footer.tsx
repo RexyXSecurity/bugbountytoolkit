@@ -37,7 +37,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-2">
               <a
-                href="https://twitter.com/LuCyanXsecurity"
+                href="https://twitter.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg text-zinc-600 hover:text-white hover:bg-zinc-800/50 transition-all duration-200"
@@ -46,7 +46,7 @@ const Footer = () => {
                 <Twitter className="w-4 h-4" />
               </a>
               <a
-                href="https://github.com/LuCyanXsecurity"
+                href="https://github.com/RexyXSexurity"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg text-zinc-600 hover:text-white hover:bg-zinc-800/50 transition-all duration-200"
@@ -110,7 +110,7 @@ const Footer = () => {
               Follow for the latest security tools and techniques.
             </p>
             <a
-              href="https://github.com/LuCyanXsecurity/bugbountytoolkit"
+              href="https://github.com/RexyXSexurity/bugbountytoolkit"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white transition-all duration-200"
@@ -130,8 +130,8 @@ const Footer = () => {
             </p>
             <p className="text-zinc-600 text-xs flex items-center gap-1">
               Made by
-              <a href="https://github.com/LuCyanXsecurity" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-white transition-colors">
-                LuCyanXsecurity
+              <a href="https://github.com/RexyXSexurity" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-white transition-colors">
+                RexyXSexurity
               </a>
             </p>
           </div>
