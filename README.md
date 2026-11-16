@@ -5,7 +5,7 @@
 ### A Curated Collection of Security Tools & Commands for Bug Bounty Hunters
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-bugbountytoolkit.vercel.app-red?style=for-the-badge)](https://bugbountytoolkit.vercel.app)
-[![GitHub Stars](https://img.shields.io/github/stars/LuCyanXsecurity/bugbountytoolkit?style=for-the-badge&logo=github&color=yellow)](https://github.com/LuCyanXsecurity/bugbountytoolkit/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/RexyXSecurity/bugbountytoolkit?style=for-the-badge&logo=github&color=yellow)](https://github.com/RexyXSecurity/bugbountytoolkit/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <p align="center">
@@ -77,7 +77,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/LuCyanXsecurity/bugbountytoolkit.git
+git clone https://github.com/RexyXSecurity/bugbountytoolkit.git
 
 # Navigate to directory
 cd bugbountytoolkit
@@ -177,14 +177,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://twitter.com/LuCyanXsecurity">
-    <img src="https://img.shields.io/badge/Twitter-@LuCyanXsecurity-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  <a href="https://twitter.com/RexyXSecurity">
+    <img src="https://img.shields.io/badge/Twitter-@RexyXSecurity-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
-  <a href="https://github.com/LuCyanXsecurity">
-    <img src="https://img.shields.io/badge/GitHub-LuCyanXsecurity-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/RexyXSecurity">
+    <img src="https://img.shields.io/badge/GitHub-RexyXSecurity-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:lucyanxsec@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lucyanxsec@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:whoisrexy1337c@gmail.com">
+    <img src="https://img.shields.io/badge/Email-whoisrexy1337@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
@@ -194,6 +194,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ Star this repo if you find it useful!
 
-**Made with by [LuCyanXsecurity](https://github.com/LuCyanXsecurity)**
+**Made with by [RexyXSecurity](https://github.com/RexyXSecurity)**
 
 </div>
